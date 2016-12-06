@@ -1,6 +1,8 @@
 # Proyecto-Final-TIO
 
-Proyecto Final de TIO
+Proyecto Final de la asignatura Tecnologías de la Información para las Organizaciones
+
+GEOLOCALIZACIÓN Y RANKING DE PISCINAS NATURALES EN TENERIFE
 
 Grupo 5:
 

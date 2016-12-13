@@ -20,4 +20,4 @@ Tenerife es una isla que cuenta con innumerables recursos y lugares de interés 
 
 ## Enlaces de interés
 
-[CARTO](https://nitesh.carto.com/viz/ea8ac986-bae7-11e6-90e8-0ecd1babdde5/public_map)
+[CARTO](https://iglez.carto.com/viz/84a9f206-c116-11e6-92ff-0e98b61680bf/public_map)

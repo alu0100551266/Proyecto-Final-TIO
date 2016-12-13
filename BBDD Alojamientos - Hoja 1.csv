@@ -1,4 +1,4 @@
-ows_LinkTitle,ows_Zona,ows_posx,ows_posy,ows_Municipio
+ows_LinkTitle,ows_Zona,ows_posy,ows_posx,ows_Municipio
 Aguere,Metropolitana,28.48967677234651,-16.318953036825405,San CristÃ³bal de la Laguna
 Los Partidos,Isla Baja,28.316205483166588,-16.792201339267194,Tanque (El)
 Tenerife Playa,Norte,28.418598270651607,-16.542963981628418,Puerto de la Cruz (El)
@@ -91,7 +91,6 @@ OcÃ©ano and Medical Spa (El),Metropolitana,28.5667931,-16.330869000000007,San 
 Florida,Norte,28.41151163626435,-16.556246280670166,Puerto de la Cruz (El)
 Teidemar,Norte,28.415012549538893,-16.536548137664795,Puerto de la Cruz (El)
 Park Plaza,Norte,28.416026943485313,-16.55144512653351,Puerto de la Cruz (El)
-Durazno,Sur,28.04599589951142,-16.538495421409607,Granadilla de Abona
 Casablanca,Norte,28.41342095366973,-16.542790531893843,Puerto de la Cruz (El)
 Club Ambassador,Norte,28.407445178610345,-16.538188755403098,Puerto de la Cruz (El)
 Florida Plaza,Norte,28.415923145481265,-16.553075909614563,Puerto de la Cruz (El)
@@ -144,16 +143,11 @@ Vigilia Park,Sur,28.2394932,-16.840472500000033,Santiago del Teide
 Las Rosas,Sur,28.2410105,-16.84055109999997,Santiago del Teide
 El MarquÃ©s,Sur,28.24083255316948,-16.84074318400235,Santiago del Teide
 SeÃ±orÃ­o del Valle,Sur,28.237194,-16.841890599999942,Santiago del Teide
-Deseada (La),Norte,28.500866608137446,-16.40134334564209,Tacoronte
-Playa La Arena,Norte,28.50539224258404,-16.423015594482422,Tacoronte
-Victoria,Norte,28.38786627628239,-16.525691270653624,Orotava (La)
-Orotava,Norte,28.38915771649685,-16.525460064367508,Orotava (La)
 BarcelÃ³ Varadero,Sur,28.2247013,-16.837363200000027,GuÃ­a de Isora
 BahÃ­a Flamingo,Sur,28.2247013,-16.837363200000027,GuÃ­a de Isora
 PensiÃ³n La Vista Hotel,Sur,28.2099473,-16.779003399999965,GuÃ­a de Isora
 Casa Amarilla,Isla Baja,28.370331838517213,-16.800714969285764,Silos (Los)
 Hotel Rural Los Realejos,Norte,28.3784621,-16.58527079999999,Realejos (Los)
-Casa Rural La Hoyita,Sur,28.317227,-16.41325370000004,GÃ¼Ã­mar
 Porte (El),Norte,28.522775237715358,-16.348277181386948,Tegueste
 Hotel EmblemÃ¡tico San AgustÃ­n,Norte,28.3672269,-16.71820969999999,Icod de los Vinos
 Lagarto Backpackers,Metropolitana,28.527355,-16.377920000000017,San CristÃ³bal de la Laguna
@@ -166,11 +160,8 @@ Canaima,Norte,28.4661478,-16.271831900000052,Puerto de la Cruz (El)
 4 dreams H. Chimisay,Norte,28.4141735,-16.55044309999994,Puerto de la Cruz (El)
 Sun Holidays,Norte,28.4164111,-16.553601999999955,Puerto de la Cruz (El)
 Punta del Hidalgo,Metropolitana,28.571246225576687,-16.330941058695316,San CristÃ³bal de la Laguna
-Aljibe (El),Norte,28.4797948,-16.413321300000007,Tacoronte
-Palmera (La),Norte,28.4797948,-16.413321300000007,Tacoronte
 La Joya,Isla Baja,28.360945679694677,-16.771887838840485,Tanque (El)
 "ViÃ±edos de Marco, S.L. (Los)",Norte,28.4954844,-16.3916557,Tacoronte
-Albergue Juvenil Hostel Casa Grande,Sur,28.0958456,-16.558407100000068,Granadilla de Abona
 Juncos (Los),Norte,28.357355,-16.736328400000048,Icod de los Vinos
 Apartamentos Estrella del Norte,Norte,28.3623172,-16.71462759999997,Icod de los Vinos
 Edf. Soryshe,Isla Baja,28.364263411927585,-16.77278560353443,Tanque (El)
